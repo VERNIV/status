@@ -1,1 +1,11 @@
-{}
+[
+    {
+        "name": "dostore",
+        "service": true,
+        "maintenance": {
+            "start_at": "",
+            "end_at": "",
+            "message": ""
+        }
+    }
+]
